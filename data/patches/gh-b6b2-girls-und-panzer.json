@@ -1,0 +1,36 @@
+{
+	"id": 2704,
+	"name": "Girls und Panzer",
+	"description": "Logo of Ooarai Girls' Academy from the tank warfare anime Girls und Panzer.",
+	"links": {
+		"subreddit": [
+			"girlsundpanzer"
+		]
+	},
+	"path": {
+		"227-247": [
+			[
+				-1181,
+				14
+			],
+			[
+				-1181,
+				41
+			],
+			[
+				-1208,
+				41
+			],
+			[
+				-1208,
+				14
+			]
+		]
+	},
+	"center": {
+		"227-247": [
+			-1194,
+			28
+		]
+	}
+}
